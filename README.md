@@ -1,5 +1,5 @@
 # Stock Price Prediction using Artifical Intelligence
-A project in Python. View spp.ipynb for implementation.
+A project in Python. View spp.ipynb for implementation and spp_paper.pdf for research paper detailing method and results.
 
 ## Context
 
